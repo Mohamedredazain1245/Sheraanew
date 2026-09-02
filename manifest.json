@@ -1,0 +1,20 @@
+{
+  "name": "شراع الطموح — لوحة التحكم",
+  "short_name": "شراع",
+  "description": "لوحة تحكم مشاريع شراع الطموح للمقاولات",
+  "start_url": "./sheraa-dashboard.html",
+  "display": "standalone",
+  "background_color": "#171D1B",
+  "theme_color": "#1F6B47",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
